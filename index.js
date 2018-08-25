@@ -25,3 +25,7 @@ function driversByName (drivers) {
     return driver1.name.localeCompare(driver2.name);
   }); 
 }
+
+function totalRevenue(driver) {
+  
+}
