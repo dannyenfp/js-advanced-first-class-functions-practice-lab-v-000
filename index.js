@@ -32,4 +32,4 @@ function totalRevenue(drivers) {
   });
 }
 
-const sum = euros.reduce((total, amount) => total + amount); 
+
